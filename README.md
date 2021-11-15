@@ -1,2 +1,2 @@
-# Barashkins.github.io
+# Баранов Егор
 My first project
